@@ -4,3 +4,11 @@ body {
     font-size: 18px;
     background-color: darkkhaki;
 }   
+
+p {
+    color: rgb(167, 20, 20);
+}
+
+h2 {
+    font-size: 50px;
+}
